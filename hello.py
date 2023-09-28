@@ -1,1 +1,3 @@
-print('Hello, World :3')
+hello = open("hello.txt", "r").read()
+print(hello)
+
